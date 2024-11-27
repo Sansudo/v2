@@ -1,15 +1,10 @@
 <div align="center">
-<img src="https://github.com/sansudo/sansudo/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+<img src="https://github.com/Sansudo/v2/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
 # Welcome To My GitHub Profile !
 
-<br/>
-<div align="center">
-<img src="https://github.com/sansudo/sansudo/blob/master/screen.gif" alt="Raghav Khullar Typer" />
-</div>
-<br/>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=25FFB2&center=%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9&vCenter=%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9&repeat=%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9&random=%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9&width=500&height=90&lines=Hey+there%2C+I'm+Sansudo!" alt="Typing SVG" /></a>
 <!--
 - ⌨️ Programming Languages I've used:
 
@@ -26,7 +21,7 @@
 <br/><br/>
 
 <div align="center">
-<img src="https://github.com/sansudo/sansudo/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
+<img src="https://github.com/Sansudo/v2/blob/main/coderman.gif" alt="Coder" width="400" height="250" />
 </div>
 <br/>
 
@@ -36,7 +31,7 @@
 
 
 <div align="center">
-<img src="https://github.com/sansudo/sansudo/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
+<img src="https://github.com/Sansudo/v2/blob/main/giphy.webp" alt="eatsleepcode" width="250" height="250" />
 </div>
 
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
@@ -54,7 +49,7 @@
     * [**Visit my Website**](https://raghavk16.github.io/)
     
 <div align="center">
-<img src="https://github.com/sansudo/sansudo/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
+<img src="https://github.com/Sansudo/v2/blob/main/connected.gif" alt="Raghav Khullar" width="350" height="200" />
 </div>
 
 - 😄 Pronouns: **He/Him**
